@@ -1,8 +1,8 @@
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: aqua;
+    color: red;
     text-decoration: dotted;
 }
 body{
-    background-color: bisque;
+    background-color: black;
 }
